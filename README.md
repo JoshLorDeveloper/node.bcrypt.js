@@ -7,7 +7,7 @@ Lib to help you hash passwords.
 
 Catalyst for this module: [How To Safely Store A Password][codahale]
 
-## If You Are Submitting Bugs/Issues
+## If you are submitting bugs/issues
 
 First, make sure that the version of node you are using is a _stable_ version. You'll know this because it'll have an even major release number. We do not currently support unstable versions and while the module may happen to work on some unstable versions you'll find that we quickly close issues if you're not using a stable version.
 
